@@ -1,0 +1,7 @@
+Week 1:
+
+    * Set up Verilog and Vivado on Linux. Vivado was much more difficult than expected
+    * Planned out the 10 major instructions.
+    * Re-learned Verilog, which took a good chunk of time.
+    * Wrote Verilog code for the R-Type instructions in the Control Unit
+    * Created plans for week 2-3
