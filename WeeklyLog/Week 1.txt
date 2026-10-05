@@ -5,3 +5,4 @@ Week 1:
     * Re-learned Verilog, which took a good chunk of time.
     * Wrote Verilog code for the R-Type instructions in the Control Unit
     * Created plans for week 2-3
+    * Design Plan: https://docs.google.com/document/d/18KkAAUpPk_yrXcSqe1a7dfYI04fIjVzXXlE4Jq6lSzQ/edit?usp=sharing
