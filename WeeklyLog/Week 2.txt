@@ -1,0 +1,3 @@
+* Better fleshed out the processor
+* Learned more about Verilog
+* Finished desgining the finished diagram

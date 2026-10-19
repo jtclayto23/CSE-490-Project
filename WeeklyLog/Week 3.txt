@@ -1,0 +1,5 @@
+* Finished coding each needed component of the design
+* Spent a lot of time running through the diagram and code by hand to find bugs
+* Optimized bits of the design
+* Greatly redesigned by original control unit file
+* Wrote the logic needed for all the instructions, no longer just R-type

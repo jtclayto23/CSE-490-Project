@@ -1,0 +1,16 @@
+`timescale 1ns / 1ps
+
+module PC(
+    input wire clk,
+    input wire reset,
+    input wire [15:0] pc_in,
+    
+    output reg [15:0] pc_out
+    );
+    
+    always @(posedge clk or posedge reset)
+    begin
+        if (reset) pc_out <= 16'h0000; 
+        else pc_out <= pc_in;
+    end
+endmodule
